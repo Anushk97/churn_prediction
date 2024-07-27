@@ -11,5 +11,6 @@ WORKDIR /app
 # Copy application code
 COPY . .
 
+
 # Run the application
 CMD ["python", "src/predict.py"]

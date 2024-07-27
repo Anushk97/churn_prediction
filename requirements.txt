@@ -83,5 +83,6 @@ urllib3==2.2.0
 uvicorn==0.27.1
 validators==0.22.0
 watchdog==4.0.0
+wheel
 wcwidth==0.2.13
 zipp==3.17.0
