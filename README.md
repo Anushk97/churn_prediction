@@ -1,12 +1,4 @@
 
-# Telco Customer Churn Project
-
-This project is a machine learning project focusing on customer churn prediction. The project consists of 4 main steps: 
-- Data Preprocessing and Model Development (CatBoost)
-- Interface (Streamlit)
-- API (FastAPI)
-- Automation (Docker)
-
 ## Project Folder Structure
 ```bash
 Telco Customer Churn Project/
@@ -18,10 +10,6 @@ Telco Customer Churn Project/
 │
 ├── model/
 │   └── cat_model.cbm
-│
-├── notebooks/
-│   ├── telco-customer-churn-eda.ipynb
-│   ├── telco-catboost-xgboost-shap-lime.ipynb
 │
 ├── src/
 │   ├── fast-api.py
@@ -37,7 +25,6 @@ Telco Customer Churn Project/
 
 - **data/**: Contains the data files used for the project.
 - **model/**: Contains the trained model file.
-- **notebooks/**: Includes Jupyter Notebooks used for data analysis and model development.
 - **src/**: Contains the source code of the project. Model training, prediction and service/application development are located in this folder.
 
 ## Steps
