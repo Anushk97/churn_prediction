@@ -1,5 +1,5 @@
 # Use a Python-based image
-FROM python:3.9-slim
+FROM python:3.11-slim
 
 # Copy requirements.txt and install dependencies
 COPY requirements.txt requirements.txt
