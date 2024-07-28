@@ -36,7 +36,7 @@ matplotlib==3.8.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 numba==0.59.0
-numpy==1.26.4
+numpy==1.20.0
 packaging==23.2
 pandas==2.2.0
 parso==0.8.3
