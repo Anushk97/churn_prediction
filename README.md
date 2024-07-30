@@ -65,6 +65,8 @@ streamlit run streamlit-app.py
 ```bash
 python fast-api.py
 ```
+Go to this address to access API: http://127.0.0.1:5000/docs
+
 - For predict
 ```bash
 python predict.py
